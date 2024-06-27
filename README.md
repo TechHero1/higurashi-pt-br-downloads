@@ -2,6 +2,8 @@
 
 Links de download para baixar as traduções em Português Brasileiro de _Higurashi no Naku Koro ni Hou_, compatíveis com o [_07th-Mod_](https://07th-mod.com).
 
+> Veja o progresso da tradução [aqui](https://docs.google.com/spreadsheets/d/1DJBlp_bFBwAQXBYrzT40BAT_f6Fqlx79bGgSV1eawLs).
+
 ### Arcos de Perguntas ( 無印 / Question Arcs )
 
 [Cap. 1 - Onikakushi](https://github.com/0Mateus/onikakushi/releases/latest)
