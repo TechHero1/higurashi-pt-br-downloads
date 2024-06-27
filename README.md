@@ -4,19 +4,19 @@ Links de download para baixar as traduções em Português Brasileiro de _Higura
 
 ### Arcos de Perguntas ( 無印 / Question Arcs )
 
-[Cap. 1 - Onikakushi](https://github.com/0Mateus/onikakushi)
+[Cap. 1 - Onikakushi](https://github.com/0Mateus/onikakushi/releases/latest)
 
-[Cap. 2 - Watanagashi](https://github.com/0Mateus/watanagashi)
+[Cap. 2 - Watanagashi](https://github.com/0Mateus/watanagashi/releases/latest)
 
-[Cap. 3 - Tatarigoroshi](https://github.com/0Mateus/tatarigoroshi)
+[Cap. 3 - Tatarigoroshi](https://github.com/0Mateus/tatarigoroshi/releases/latest)
 
-[Cap. 4 - Himatsubushi](https://github.com/0Mateus/himatsubushi)
+[Cap. 4 - Himatsubushi](https://github.com/0Mateus/himatsubushi/releases/latest)
 
 ### Arcos de Respostas ( 解 / Answer Arcs )
 
-[Cap. 5 - Meakashi](https://github.com/0Mateus/meakashi)
+[Cap. 5 - Meakashi](https://github.com/0Mateus/meakashi/releases/latest)
 
-[Cap. 6 - Tsumihoroboshi](https://github.com/0Mateus/tsumihoroboshi)
+[Cap. 6 - Tsumihoroboshi](https://github.com/0Mateus/tsumihoroboshi/releases/latest)
 
 Cap. 7 - Minagoroshi (em breve)
 
