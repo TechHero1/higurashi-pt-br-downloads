@@ -1,4 +1,4 @@
-# Higurashi no Naku Koro ni Hou (Português Brasileiro)
+# Higurashi no Naku Koro ni (Português Brasileiro)
 
 Links de download para baixar as traduções em Português Brasileiro de _Higurashi no Naku Koro ni Hou_, compatíveis com o [_07th-Mod_](https://07th-mod.com).
 
