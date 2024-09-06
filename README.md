@@ -20,7 +20,7 @@ Links de download para baixar as traduções em Português Brasileiro de _Higura
 
 [Cap. 6 - Tsumihoroboshi](https://github.com/0Mateus/tsumihoroboshi/releases/latest)
 
-Cap. 7 - Minagoroshi (em breve)
+[Cap. 7 - Minagoroshi](https://github.com/Miracle-Translations/minagoroshi/releases/latest)
 
 Cap. 8 - Matsuribayashi (em breve)
 
