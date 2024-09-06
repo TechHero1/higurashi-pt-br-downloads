@@ -22,8 +22,8 @@ Links de download para baixar as traduções em Português Brasileiro de _Higura
 
 [Cap. 7 - Minagoroshi](https://github.com/Miracle-Translations/minagoroshi/releases/latest)
 
-Cap. 8 - Matsuribayashi (em breve)
+Cap. 8 - Matsuribayashi ***(em breve)***
 
 ### Gratidão ( 礼 / Rei )
 
-Epílogo - Saikoroshi (em breve)
+Epílogo - Saikoroshi ***(em breve)***
