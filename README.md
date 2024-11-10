@@ -4,7 +4,7 @@ Links de download para baixar as traduções em Português Brasileiro de _Higura
 
 > Veja o progresso da tradução [aqui](https://docs.google.com/spreadsheets/d/1DJBlp_bFBwAQXBYrzT40BAT_f6Fqlx79bGgSV1eawLs).
 
-### Arcos de Perguntas ( 無印 Mujirushi / Question Arcs )
+### Capítulos de Perguntas ( 無印 Mujirushi / 出題編 Shutsudai-hen / Question Arcs )
 
 [Cap. 1 - Onikakushi](https://github.com/0Mateus/onikakushi/releases/latest)
 
@@ -14,7 +14,7 @@ Links de download para baixar as traduções em Português Brasileiro de _Higura
 
 [Cap. 4 - Himatsubushi](https://github.com/0Mateus/himatsubushi/releases/latest)
 
-### Arcos de Respostas ( 解 Kai / Answer Arcs )
+### Capítulos de Respostas ( 解 Kai / 解答編 Kaitou-hen / Answer Arcs )
 
 [Cap. 5 - Meakashi](https://github.com/0Mateus/meakashi/releases/latest)
 
