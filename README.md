@@ -27,3 +27,9 @@ Cap. 8 - Matsuribayashi ***(em breve)***
 ### Gratidão ( 礼 / Rei )
 
 Epílogo - Saikoroshi ***(em breve)***
+
+---
+
+### Capítulos Exclusivos de Console
+
+[Taraimawashi](https://github.com/0mateus/higurashi-console-arcs/)
