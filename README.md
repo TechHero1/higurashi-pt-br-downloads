@@ -32,4 +32,4 @@ Epílogo - Saikoroshi ***(em breve)***
 
 ### Capítulos Exclusivos de Console
 
-[Taraimawashi](https://github.com/0mateus/higurashi-console-arcs/)
+[Taraimawashi](https://github.com/0mateus/higurashi-console-arcs/) / Someutsushi ***(em breve)***
