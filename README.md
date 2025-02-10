@@ -35,3 +35,9 @@ Epílogo - Saikoroshi ***(em breve)***
 [Taraimawashi](https://github.com/0Mateus/higurashi-console-arcs/releases/latest) / Someutsushi ***(em breve)***
 
 [Guia de instalação](https://github.com/0Mateus/higurashi-console-arcs/blob/main/README.md#instala%C3%A7%C3%A3o)
+
+# Conteúdo Extra
+
+[Kuradashi](https://github.com/kikachangames/kuradashi/releases/latest)
+
+Uma coleção de Fragmentos baseados em conceitos descartados da versão final de Higurashi no Naku Koro ni, adaptados para o formato de visual novel por fãs.
