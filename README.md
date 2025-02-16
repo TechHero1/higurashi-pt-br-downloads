@@ -38,8 +38,10 @@ Epílogo - Saikoroshi ***(em breve)***
 
 # Conteúdo Extra
 
-Kuradashi - [PC](https://github.com/kikachangames/kuradashi/releases/download/1.0/Higurashi_Kuradashi-1.0-pc.zip)
+### Kuradashi
 
 Uma compilação de Fragmentos baseados em conceitos descartados da versão final de Higurashi no Naku Koro ni, lançados como livreto e adaptados para o formato de visual novel por fãs.
+
+[PC](https://github.com/kikachangames/kuradashi/releases/download/1.0/Higurashi_Kuradashi-1.0-pc.zip)
 
 [Página do projeto](https://kikachangames.github.io/kuradashi/)
