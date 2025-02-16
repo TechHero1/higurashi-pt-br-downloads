@@ -30,13 +30,13 @@ Epílogo - Saikoroshi ***(em breve)***
 
 ---
 
+# Conteúdo Extra
+
 ### Capítulos Exclusivos de Console
 
 [Taraimawashi](https://github.com/0Mateus/higurashi-console-arcs/releases/latest) / Someutsushi ***(em breve)***
 
 [Guia de instalação](https://github.com/0Mateus/higurashi-console-arcs/blob/main/README.md#instala%C3%A7%C3%A3o)
-
-# Conteúdo Extra
 
 ### Kuradashi
 
