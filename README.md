@@ -32,16 +32,14 @@ Epílogo - Saikoroshi ***(em breve)***
 
 # Conteúdo Extra
 
-### Capítulos Exclusivos de Console
-
-[Taraimawashi](https://github.com/0Mateus/higurashi-console-arcs/releases/latest) / Someutsushi ***(em breve)***
-
-[Guia de instalação](https://github.com/0Mateus/higurashi-console-arcs/blob/main/README.md#instala%C3%A7%C3%A3o)
-
 ### Kuradashi
 
 Uma compilação de Fragmentos baseados em conceitos descartados da versão final de Higurashi no Naku Koro ni, lançados como livreto e adaptados para o formato de visual novel por fãs.
 
-[PC](https://github.com/kikachangames/kuradashi/releases/download/1.0/Higurashi_Kuradashi-1.0-pc.zip)
+[Página da tradução](https://kikachangames.github.io/kuradashi/)
 
-[Página do projeto](https://kikachangames.github.io/kuradashi/)
+### Ace Higurashi Attorney: A Reviravolta do Curry
+
+Um jogo de Higurashi no Naku Koro ni feito por fãs que parodia a franquia Ace Attorney.
+
+[Página da tradução](https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/)
